@@ -1,7 +1,7 @@
 # vpn-youtube
 google chrome専用のyoutubeを見る拡張機能
 
-# 使い方
+# やり方
 
 １、ZenMate VPN .crxのファイルを押す。
 
