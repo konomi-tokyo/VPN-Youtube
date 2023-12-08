@@ -1,6 +1,13 @@
 # vpn-youtube
 google chrome専用のyoutubeを見る拡張機能
 
+---
+東京プロキシ → https://github.com/konomi-tokyo/tokyo-proxy
+
+東京プロキシ２ → https://github.com/konomi-tokyo/tokyo-proxy2
+
+東京プロキシ４ → https://github.com/konomi-tokyo/tokyo-proxy4
+
 # やり方
 
 １、ZenMate VPN .crxのファイルを押す。
