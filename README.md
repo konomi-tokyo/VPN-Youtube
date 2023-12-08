@@ -18,3 +18,11 @@ google chrome専用のyoutubeを見る拡張機能
 に行く
 
 ７、完璧☆
+
+---
+<div style=”line-height: 1;”>
+フォローよろしく
+  <br>
+https://fiicen.jp/field/tokyo_konoMi/
+ <br>
+</div>
