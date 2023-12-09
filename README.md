@@ -19,7 +19,7 @@ google chrome専用のyoutubeを見る拡張機能
 
 ４、ファイルに保存されたZenMate VPNを ３ の場所にドラッグする(ファイルを開いて)
 
-５、拡張機能をONにする(sign upしてから)
+５、拡張機能をONにする(sign upする)
 
 ６、できたら、chrome://extensions/ からZenMate VPNを押して、出て来た画面の右上を押す。
 
