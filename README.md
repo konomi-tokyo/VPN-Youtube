@@ -12,7 +12,7 @@ google chrome専用のyoutubeを見る拡張機能
 
 １、ZenMate VPN .crxのファイルを押す。
 
-２、View rawを押す。
+２、View rawを押し、保存する。
 
 ３，chrome://extensions/
 ココに行く。
